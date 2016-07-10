@@ -1,2 +1,2 @@
 # hello-world
-Trond's first github repository
+Trond's first **github** repository
